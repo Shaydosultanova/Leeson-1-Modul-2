@@ -1,0 +1,28 @@
+.yellow{
+  color: green;
+  background-color: rgb(235, 235, 253);
+  text-align: center;
+  font-size: 30px; 
+  text-transform:uppercase;
+  text-decoration: underline;
+  opacity: 1; 
+}
+
+ul{
+   list-style: none; 
+}
+
+.shaydo{
+    color: brown;
+    background-color: aqua;
+    text-align: right;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-decoration:line-through;
+}
+
+#TEXT{
+    color: blueviolet;
+    background-color: antiquewhite;
+    border: 2px solid;
+}
